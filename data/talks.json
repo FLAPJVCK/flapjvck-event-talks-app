@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of AI in Web Development",
+    "speakers": ["Alice Johnson"],
+    "categories": ["AI", "Web Dev"],
+    "description": "An exploration of how AI is transforming the way we build websites.",
+    "duration": 60
+  },
+  {
+    "id": 2,
+    "title": "Mastering CSS Grid and Flexbox",
+    "speakers": ["Bob Smith", "Charlie Brown"],
+    "categories": ["CSS", "Design"],
+    "description": "Deep dive into layout techniques for modern web applications.",
+    "duration": 60
+  },
+  {
+    "id": 3,
+    "title": "Node.js Performance Optimization",
+    "speakers": ["Diana Prince"],
+    "categories": ["Node.js", "Backend"],
+    "description": "Learn tips and tricks for making your Node.js applications lightning fast.",
+    "duration": 60
+  },
+  {
+    "id": 4,
+    "title": "Cybersecurity for Modern Apps",
+    "speakers": ["Eve Miller"],
+    "categories": ["Security", "Web Dev"],
+    "description": "Practical advice on securing your web applications against common threats.",
+    "duration": 60
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Web3 and Blockchain",
+    "speakers": ["Frank Wright", "Grace Hopper"],
+    "categories": ["Web3", "Blockchain"],
+    "description": "A beginner-friendly guide to the decentralized web.",
+    "duration": 60
+  },
+  {
+    "id": 6,
+    "title": "React Server Components: A New Era",
+    "speakers": ["Hank Hill"],
+    "categories": ["React", "Frontend"],
+    "description": "Understanding the benefits and implementation of React Server Components.",
+    "duration": 60
+  }
+]
